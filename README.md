@@ -12,3 +12,9 @@ Split is an innovative financial management application that simplifies the proc
 <img src="https://github.com/user-attachments/assets/c6cae9d6-8c83-4734-9d5e-74cff2e67972" width="250" alt="Transaction History" />
 <img src="https://github.com/user-attachments/assets/ce02a0ef-fae0-4187-b554-cf10622b92d8" width="250" alt="Settings Dashboard" />
 <img src="https://github.com/user-attachments/assets/d6c28ae7-3dfe-4a44-b974-1537f5888bb5" width="250" alt="Home Dashboard" />
+
+
+## Technology Used
+1. KMM
+2. Firebase
+3. Jetpack Compose
