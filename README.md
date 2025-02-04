@@ -18,3 +18,4 @@ Split is an innovative financial management application that simplifies the proc
 1. KMM
 2. Firebase
 3. Jetpack Compose
+4. Cloud based Authentication
